@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Vevennah/Vevennah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm **Vevennah**, a Computer Science student and aspiring software engineer from India.
 
-Here are some ideas to get you started:
+💡 I love turning ideas into reality through code, my imagination has no limits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My primary tech stack includes **React, JavaScript, Python, and Figma**.
+
+🚀 I'm constantly building projects, learning new technologies, and improving my skills every day.
+
+🌱 I'm passionate about **AI/ML, Full-Stack Development, and creating meaningful software**.
+
+🎮 I especially enjoy building games inspired by anime, with a touch of fantasy and immersive storytelling.
+
+✨ Always curious, always learning, and always excited to build something new.
