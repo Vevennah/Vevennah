@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Vevennah cosmic banner"/>
+</p>
+
 ## ✨Greetings, Fellow Traveller✨. 
 
 I'm **Vevennah**, a Computer Science Engineering student, fascinated by the interconnected systems that shape our world.
