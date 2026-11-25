@@ -1,15 +1,17 @@
-## Hi there 👋
+## ✨Greetings, Fellow Traveller✨. 
 
-👋 I'm **Vevennah**, a Computer Science student and aspiring software engineer from India.
+I'm **Vevennah**, a Computer Science Engineering student, fascinated by the interconnected systems that shape our world.
 
-💡 I love turning ideas into reality through code, my imagination has no limits.
+🔮 **Interests:** Cybersecurity, Governance, Risk & Compliance (GRC), AI/ML, and emerging technologies.
 
-💻 My primary tech stack includes **React, JavaScript, Python, and Figma**.
+⚙️ **Exploring:** Software development, security frameworks, risk management, research, and the intersection of technology and human behaviour.
 
-🚀 I'm constantly building projects, learning new technologies, and improving my skills every day.
+📜 **Building:** Projects that combine research, creativity, problem-solving, and practical applications.
 
-🌱 I'm passionate about **AI/ML, Full-Stack Development, and creating meaningful software**.
+🧠 **Curious about:** Cryptography, quantum computing, astronomy, and the mysteries of the universe.
 
-🎮 I especially enjoy building games inspired by anime, with a touch of fantasy and immersive storytelling.
+🖋️ **Beyond technology:** An avid reader, audiobook enthusiast, and lifelong learner with an appreciation for fantasy, intricate worldbuilding, and stories that challenge the imagination.
 
-✨ Always curious, always learning, and always excited to build something new.
+🌌 I believe every complex system has something new to teach us. Always exploring, questioning, learning, and creating.
+
+*Every discovery begins with curiosity.*
