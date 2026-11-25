@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Vevennah cosmic banner"/>
+  <img src="./banner1.png" width="100%" alt="Vevennah cosmic banner"/>
 </p>
 
 ## ✨Greetings, Fellow Traveller✨. 
